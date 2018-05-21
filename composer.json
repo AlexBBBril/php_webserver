@@ -1,0 +1,17 @@
+{
+    "name": "alex/php_webserver",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alex Bril",
+            "email": "brilalex1989@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":
+        {
+            "App\\WebServer\\": "src/"
+        }
+    }
+}
